@@ -12,7 +12,6 @@ Demonstrate human-like LinkedIn automation with Go and Rod.
 - Human-like delays, hovering, scrolling
 
 ## Setup
-```bash
 git clone <repo-link>
 cd linkedin-automation
 go mod tidy
@@ -25,5 +24,3 @@ Go, Rod, Chromium
 Author
 Prerana Srinivasa
 
-pgsql
-Copy code
